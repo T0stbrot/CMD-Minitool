@@ -7,5 +7,3 @@ Features:
 4. Clean Shutdown
 5. Program Installer (Downloads the Program and runs the Setup/EXE)
 6. Winrar Activator
-
-FIRST RELEASE WILL COME SOON
