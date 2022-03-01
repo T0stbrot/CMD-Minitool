@@ -15,15 +15,15 @@ Added in 0.1B:
 --- --- --- --- --- ---
 
 Added in 0.2B
-1. 𝕊𝕥𝕚𝕝𝕝 𝕒 𝕄𝕪𝕤𝕥𝕖𝕣𝕪.
-2. 𝕊𝕥𝕚𝕝𝕝 𝕒 𝕄𝕪𝕤𝕥𝕖𝕣𝕪.
-3. 𝕊𝕥𝕚𝕝𝕝 𝕒 𝕄𝕪𝕤𝕥𝕖𝕣𝕪.
+1. Yellow Theme.
+2. Ultimate Performance Enabler.
+3. Added Support for Windows 10/11 Enterprise and Education in the activator!
 --- --- ---
-4 𝕊𝕥𝕚𝕝𝕝 𝕒 𝕄𝕪𝕤𝕥𝕖𝕣𝕪 -
-4.1 𝕊𝕥𝕚𝕝𝕝 𝕒 𝕄𝕪𝕤𝕥𝕖𝕣𝕪 -
-4.2 𝕊𝕥𝕚𝕝𝕝 𝕒 𝕄𝕪𝕤𝕥𝕖𝕣𝕪.
+4. Fun Box:
+Random Number Generator and Coin Flip
 --- --- ---
 0.2B Improvements/Fixes:
-
-𝕊𝕥𝕚𝕝𝕝 𝕒 𝕄𝕪𝕤𝕥𝕖𝕣𝕪.
+1. Winrar Cracker Fixed.
+2. Tools like Program Installer won't allow you to open the menu when your Windows Version Does not have the Features the Tool need.
+3. Categorised menu.
 --- --- --- --- --- ---
